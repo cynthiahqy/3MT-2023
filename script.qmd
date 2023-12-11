@@ -1,15 +1,21 @@
+---
+title: Lasagne Recipes for Complex Data
+subtitle: 3MT 2023 Competition
+date: "2023-06-20"
+---
+
+![Lasagne Recipes for Complex Data](3MT-2023-lasagne-v03.png)
+
 What do lasagne and data-driven social science research have in common? Well, cooking and data science are two of my favourite past-times -- but more importantly they're both things we would sometimes like to reproduce.
 
 When it comes to lasagne, replication is pretty straight forward. You'll need a recipe for each of the components -- pasta sheets, béchamel, and sauce.. or you'll use pre-made pasta sheets.
 
 Now, imagine if instead of a neatly formatted recipe with ingredients and step-by-step instructions, you had to instead make a lasagne based on a transcript of someone else making lasagne. You might be thinking -- cool like a cooking show? No. I mean "pick up the knife", "turn oven knob", "put water in the pot", "put pot of water on stove"... every little detail. How tedious right?
 
-**Unfortunately, replication in empirical social science can often be that tedious. **Replication usually involves following the data preparation and analysis line-by-line in whatever coding language the researchers used.
+Unfortunately, replication in empirical social science can often be that tedious. Replication usually involves following the data preparation and analysis line-by-line in whatever coding language the researchers used.
 
-Now before you go blaming social scientists, it's really not our fault. Instead of standard things like béchamel and pasta sheets, we're out here trying to collect and wrangle all sorts of complex and novel data and that's before we even get to trying to extract useful insights and stories from that data.
+Now before you go blaming social scientists, it's really not our fault. Instead of standard things like béchamel and pasta sheets, we're out here trying to collect and wrangle all sorts of complex and novel data -- from survey data, to satellite images and even social media data -- and that's before we even get to trying to extract useful insights and stories from that data.
 
-Given how varied social science research can be, are there even any alternatives to "and then I did this and then I did this" narration? Well, that's where my research comes in. I design and build templates and tools for less tedious and more transparent data preparation. I learn about all the cool experimental lasagnes that social scientists are cooking up and package up common data practices into new concepts and tools.
+Given how varied social science research can be, are there even any alternatives to "and then I did this and then I did this" narration? Well, that's where my research comes in. I design and build templates and tools for less tedious and more transparent data preparation. I work with domain experts to co-design solutions to technical bottlenecks and statistical challenges in their use of data. I learn about all the cool experimental lasagnes that social scientists are cooking up and package up common data practices into new concepts and tools. 
 
-I work with domain experts to co-design solutions to technical bottlenecks and statistical challenges in their use of data -- whether that's mapping Australian statistics into some international classifications, or understanding the limitations of social media data, or wrangling satellite images into fancy new computer vision models.
-
-These are just some of the many components required to create high quality data-driven research, and just like with lasagne fillings, there's a lot of possible variations, but in all cases a well written recipe goes a long way.
+Data preparation is just one of many components needed for high quality data-driven research, and just like with lasagne fillings, there's a lot of possible variations, but in both cases a well written recipe goes a long way.
