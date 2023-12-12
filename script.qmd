@@ -1,6 +1,9 @@
 ---
 title: Lasagne Recipes for Complex Data
 subtitle: 3MT 2023 Competition
+format:
+  html:
+    standalone: true
 date: "2023-06-20"
 ---
 
