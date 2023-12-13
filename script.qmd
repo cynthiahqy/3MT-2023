@@ -31,6 +31,8 @@ Data preparation is just one of many components needed for high quality data-dri
 
 ## Faculty Round Script, 30 June, 2023
 
+Result: [*Second Place*](https://www.monash.edu/business/news/2023/crimes-against-spaghetti-and-other-three-minute-tales-win-over-judges)
+
 What do lasagne and data-driven social science research have in common? Well, cooking and data science are two of my favourite past-times -- but more importantly they're both things we would sometimes like to reproduce.
 
 When it comes to lasagne, replication is pretty straight forward. You'll need a recipe for each of the components -- pasta sheets, béchamel, and sauce.. or you'll use pre-made pasta sheets.
